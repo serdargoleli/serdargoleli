@@ -11,7 +11,3 @@ I am Serdar Göleli, I am Turkish, I work in the field of web design and program
 * JS & ES6 & ES7 & ES8
 * Vue.js + Nuxt.js 
 * Php
-
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=serdargoleli&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
