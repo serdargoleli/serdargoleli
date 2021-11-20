@@ -9,5 +9,6 @@ I am Serdar Göleli, I am Turkish, I work in the field of web design and program
 * CSS3 + SASS
 * Bootstrap, Tailwind, Bulma
 * JS & ES6 & ES7 & ES8
+* Vanilla.js
 * Vue.js + Nuxt.js 
 * Php
