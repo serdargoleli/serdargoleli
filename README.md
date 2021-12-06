@@ -22,42 +22,6 @@ You are in the profile of a personality who is willing to learn, develop himself
 
 <p style="margin-top:15px;margin-bottom:8px;color:#ffffff">   
         <strong >Follow Me:</strong></p>
-        <a href="https://github.com/serdargoleli" target="_blank"
-      ><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
-    /></a>
-    <a href="https://www.linkedin.com/in/serdargoleli/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-    /></a>
-    <a href="https://www.instagram.com/serdargoleli_/" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-    /></a>
-    <a href="https://codepen.io/serdargoleli" target="_blank"
-      ><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"
-    /></a>
-    <a href="https://www.behance.net/serdargoleli" target="_blank">
-      <img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white"
-    /></a>
-    <a href="https://pinterest.com/serdargoleli/" target="_blank">
-      <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white"
-    /></a>
-    <a malto="web.serdargoleli@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://twitter.com/serdargoleli" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-    </a>
-    <a href="https://stackoverflow.com/users/14314096/serdar-g%c3%b6leli" target="_blank">
-      <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
-    </a>
-    <a href="https://medium.com/@serdargoleli" target="_blank">
-      <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-    </a>
-    <a href="https://www.buymeacoffee.com/serdargoleli" target="_blank">
-      <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
-    </a>
-
-
+        <a href="https://github.com/serdargoleli" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://www.linkedin.com/in/serdargoleli/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://www.instagram.com/serdargoleli_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> <a href="https://codepen.io/serdargoleli" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/></a> <a href="https://www.behance.net/serdargoleli" target="_blank"><img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white"/></a> <a href="https://pinterest.com/serdargoleli/" target="_blank"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white"/></a> <a malto="web.serdargoleli@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a><a href="https://twitter.com/serdargoleli" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://stackoverflow.com/users/14314096/serdar-g%c3%b6leli" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a> <a href="https://medium.com/@serdargoleli" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a> <a href="https://www.buymeacoffee.com/serdargoleli" target="_blank"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
 <hr />
-
-<div style="dispaly:flex;">
-    <img style="width:100%" src="https://github-readme-streak-stats.herokuapp.com/?user=serdargoleli" />
-    <img style="width:100%" src="https://github-readme-stats.vercel.app/api?username=serdargoleli" />
-</div>
+ 
