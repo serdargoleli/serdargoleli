@@ -11,7 +11,7 @@
 - Gif interface project that I developed using nuxt js and giphy endpoints => [sgiphy](https://sgiphy.vercel.app/)
 - Product demonstration project that I developed with Vue 3, Vite, Pinia, Vue Router 4, PrimeVue, PrimeFlex, RESTFul API => [sgphone](https://sgphone.vercel.app/)
 - Nextjs, pwa and spa project game app => [sgame](https://sgame.vercel.app/)
-- Chat app I developed with vue3 + firebase => [sgchat](https://sgchat.vercel.app/chatroom)
+- Chat app I developed with vue3 + firebase => [sgchat](https://sgchat.vercel.app)
 - About the ricky and morty characters react + reactstrap => [sgcartoon](https://sg-ricky-and-morty.netlify.app/)
 - Vue3 current currency => [sgcurrency](https://sgdoviz.netlify.app/)
 - It is a spa that we developed using nuxt js + i18n + tailwind css that generates random human data. => [random-user-data](https://get-user-data.vercel.app/)
