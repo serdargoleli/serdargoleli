@@ -1,5 +1,5 @@
  
-                             ![](https://komarev.com/ghpvc/?username=serdargoleli&label=PROFILE+VIEWS&color=green)
+![](https://komarev.com/ghpvc/?username=serdargoleli&label=PROFILE+VIEWS&color=green)
  
 <h1 align="center">Hi 👋, I'm Serdar Göleli, Frontend Developer</h1>
 <h3 align="center">You are in the profile of a personality who is willing to learn, develop himself and produce new projects, is determined and ambitious, does not like to stay in his comfort zone, constantly looking for innovations</h3>
