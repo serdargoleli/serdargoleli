@@ -11,7 +11,7 @@
 - E-commerce template that I coded with html + scss + Bootstrap => [sghoes](https://shoes-ten.vercel.app/index.html)
 - Gif interface project that I developed using nuxt js and giphy endpoints => [sgiphy](https://sgiphy.vercel.app/)
 - Product demonstration project that I developed with Vue 3, Vite, Pinia, Vue Router 4, PrimeVue, PrimeFlex, RESTFul API => [sgphone](https://sgphone.vercel.app/)
-- Stock Photo and Country Univercities(Vue3, Typescript, Pinia, TailwindCss) => [sg-api-projects]((https://sg-projects.netlify.app/))
+- Stock Photo and Country Univercities(Vue3, Typescript, Pinia, TailwindCss) => [sg-api-projects](https://sg-projects.netlify.app/)
 - Nextjs, pwa and spa project game app => [sgame](https://sgame.vercel.app/)
 - Chat app I developed with vue3 + firebase => [sgchat](https://sgchat.vercel.app)
 - About the ricky and morty characters react + reactstrap => [sgcartoon](https://sg-ricky-and-morty.netlify.app/)
