@@ -28,7 +28,7 @@
 <a href="https://dribbble.com/serdargoleli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="serdargoleli" height="30" width="40" /></a>
 <a href="https://www.behance.net/serdargoleli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="serdargoleli" height="30" width="40" /></a>
 <a href="https://medium.com/@serdargoleli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@serdargoleli" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/serdargoleli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="serdargoleli" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@serdargoleli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="serdargoleli" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
